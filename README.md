@@ -41,14 +41,9 @@ Each model was evaluated using:
 ## 🚀 How to Run
 
 1. Clone this repository
-2. Open the `CSE437_Group26.ipynb` notebook in Google Colab
+2. Open the `code.ipynb` notebook in Google Colab
 3. Upload the dataset or mount Google Drive as shown in the notebook
 4. Run each cell to train and evaluate the models
-
-## 👥 Authors
-
-Group 26 — CSE437 Project  
-*Names can be listed here if desired*
 
 ## 📄 License
 
